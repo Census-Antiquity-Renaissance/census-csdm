@@ -13,7 +13,7 @@ nav:
     - Period: period.md
     - Image: image.md
     - Collections: collections.md
-theme: material
+theme: windmill
 markdown_extensions:
   - attr_list
   - md_in_html
