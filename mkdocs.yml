@@ -1,5 +1,5 @@
 site_name: Census Data Model Documentation
-site_url: https://takinsolutions.github.io/censusdocumentation/
+site_url: https://census-antiquity-renaissance.github.io/census-csdm/
 use_directory_urls: true
 # pagination
 nav:
